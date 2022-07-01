@@ -4,4 +4,4 @@ title: About
 ---
 # About page
 
-Pagina creada para organizar archivos de proyecto.
+Página creada para organizar archivos de proyecto.
