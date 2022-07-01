@@ -4,5 +4,5 @@ title: Home
 ---
 <h1>Respositorio de Links!</h1>
 Contenidos se iran actualizando conforme se avance.
-<p>Links:</p> 
+**Links:** 
 - [Propuesta Contenido](https://mestepario.github.io/proyectos)
