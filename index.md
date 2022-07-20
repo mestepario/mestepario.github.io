@@ -9,3 +9,4 @@ Contenidos se actualizarán conforme vayamos avanzando.
 - [Propuesta Contenido](https://mestepario.github.io/proyectos)
 - [Fuentes Bibliográficas (*Normas Eléctricas Ecuatorianas*)](https://cieema.com.ec/en/servicios/normas)
 - [Borradores](https://mestepario.github.io/borradores)
+- [Tabla para registro de mediciónes](https://drive.google.com/drive/folders/17a8xZNnuC0emE2DhsTFwxEXjnHmp4Ac8?usp=sharing)
